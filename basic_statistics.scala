@@ -61,8 +61,8 @@ println(s"statistics ${chi.getAs[Vector](2)}")
 //Summarizer
 
 //importacion de librerias necesarias, en este uso de vectores y el propio summarizer
-import org.apache.spark.ml.linalg.{Vector, Vectors}
-import org.apache.spark.ml.stat.Summarizer
+import spark.implicits._    
+import Summarizer._
 
 //se crea un conjunto de vectores o secuencia
 val data = Seq(
