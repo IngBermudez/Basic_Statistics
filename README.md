@@ -9,7 +9,7 @@ Es cuando dos variables están asociadas cuando una variable nos da información
 
 ### 2. Como interpretar Una correlacion
 
-El signo nos indica la dirección de la relación, como hemos visto en el diagrama de dispersión.
+El signo nos indica la dirección de la relación
 
 - un valor positivo indica una relación directa o positiva,
 - un valor negativo indica relación indirecta, inversa o negativa,
